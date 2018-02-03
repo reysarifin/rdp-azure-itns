@@ -109,7 +109,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.45.32.171.89:4444",
+"pool_address" : "45.32.171.89:4444",
 "wallet_address" : "iz4JjMoyZJi4YYpDsbC5jygkRt2jsBVHWfZJiKsutaXEJ8mpHEVFcXbSMiPwPNZx25E8uamsiSrWqJwaje7LwSPq1TcBAhmTz",
 "pool_password" : "itns-azure:nalenal169@gmail.com",
 
